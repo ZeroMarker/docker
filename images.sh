@@ -1,0 +1,17 @@
+docker pull intersystems/irishealth-community
+docker pull ibmcom/db2
+docker pull redis
+docker pull mongo
+docker pull mysql
+docker pull postgres
+docker pull gvenzl/oracle-free
+docker pull neo4j
+docker pull clickhouse/clickhouse-server
+docker pull elasticsearch:8.11.1
+docker pull mcr.microsoft.com/mssql/server:2022-latest
+docker pull spark
+docker pull bitnami/kafka
+docker pull cassandra
+docker pull solr
+docker pull flink
+docker pull container-registry.oracle.com/database/free:latest
