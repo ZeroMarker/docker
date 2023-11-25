@@ -28,3 +28,5 @@ docker run ubuntu   # direct download if ubuntu not at local
 
 docker run -it ubuntu   # interactive
 
+// clear all cache
+docker system prune -a
