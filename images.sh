@@ -15,3 +15,5 @@ docker pull cassandra
 docker pull solr
 docker pull flink
 docker pull container-registry.oracle.com/database/free:latest
+docker pull questdb/questdb
+docker pull influxdb
