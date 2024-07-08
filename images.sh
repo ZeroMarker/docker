@@ -7,8 +7,8 @@ docker pull postgres
 docker pull gvenzl/oracle-free
 docker pull neo4j
 docker pull clickhouse/clickhouse-server
-docker pull elasticsearch:8.11.1
-docker pull mcr.microsoft.com/mssql/server:2022-latest
+docker pull elasticsearch:8.14.1
+docker pull mcr.microsoft.com/mssql/server:latest
 docker pull spark
 docker pull bitnami/kafka
 docker pull cassandra
